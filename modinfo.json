@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "ZeroGunmodVolume",
+    "name": "Zero Gunmod Volume",
+    "authors": [ "JBloodthorn" ],
+    "description": "Sets the integral volume of gunmods to zero, which prevents them from negatively affecting aim time when installed.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

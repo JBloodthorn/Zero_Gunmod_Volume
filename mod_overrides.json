@@ -1,0 +1,754 @@
+[
+  {
+    "id": "bow_sight",
+    "copy-from": "bow_sight",
+    "type": "GUNMOD",
+    "name": { "str": "five pin bow sight" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bow_sight_pin",
+    "copy-from": "bow_sight_pin",
+    "type": "GUNMOD",
+    "name": { "str": "single pin bow sight" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bow_scope",
+    "copy-from": "bow_scope",
+    "type": "GUNMOD",
+    "name": { "str": "bow scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "improve_sights",
+    "copy-from": "improve_sights",
+    "type": "GUNMOD",
+    "name": { "str": "iron sights" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "pistol_scope",
+    "copy-from": "pistol_scope",
+    "type": "GUNMOD",
+    "name": { "str": "pistol scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "red_dot_sight",
+    "copy-from": "red_dot_sight",
+    "type": "GUNMOD",
+    "name": { "str": "red dot sight" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rifle_scope",
+    "copy-from": "rifle_scope",
+    "type": "GUNMOD",
+    "name": { "str": "rifle scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rifle_scope_mod",
+    "copy-from": "rifle_scope_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified rifle scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "acog_scope",
+    "copy-from": "acog_scope",
+    "type": "GUNMOD",
+    "name": { "str": "ACOG scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "acog_scope_mod",
+    "copy-from": "acog_scope_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified ACOG scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "acog_scope_mod",
+    "copy-from": "acog_scope_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified ACOG scope" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "tele_sight",
+    "copy-from": "tele_sight",
+    "type": "GUNMOD",
+    "name": { "str": "telescopic sight" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "tele_sight_pistol",
+    "copy-from": "tele_sight_pistol",
+    "type": "GUNMOD",
+    "name": { "str": "telescopic pistol sight" },
+    "location": "sights",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "gun_crossbow",
+    "copy-from": "gun_crossbow",
+    "type": "GUNMOD",
+    "name": { "str": "rail-mounted crossbow" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "gun_crossbow_mod",
+    "copy-from": "gun_crossbow_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified rail-mounted crossbow" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "offset_sights",
+    "copy-from": "offset_sights",
+    "type": "GUNMOD",
+    "name": { "str": "offset iron sights" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "offset_sights_mod",
+    "copy-from": "offset_sights_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified offset iron sights" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "offset_sight_rail",
+    "copy-from": "offset_sight_rail",
+    "type": "GUNMOD",
+    "name": { "str": "offset sight rail" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "offset_sight_rail_mod",
+    "copy-from": "offset_sight_rail_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified offset sight rail" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rail_laser_sight",
+    "copy-from": "rail_laser_sight",
+    "type": "GUNMOD",
+    "name": { "str": "rail laser sight" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "stabilizer",
+    "copy-from": "stabilizer",
+    "type": "GUNMOD",
+    "name": { "str": "gyroscopic stabilizer" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "stabilizer_mod",
+    "copy-from": "stabilizer_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified gyroscopic stabilizer" },
+    "location": "rail",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "light_grip",
+    "copy-from": "light_grip",
+    "type": "GUNMOD",
+    "name": { "str": "lightweight replacement furniture" },
+    "location": "grip",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "pistol_grip",
+    "copy-from": "pistol_grip",
+    "type": "GUNMOD",
+    "name": { "str": "ergonomic grip" },
+    "location": "grip",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "breacher_grip",
+    "copy-from": "breacher_grip",
+    "type": "GUNMOD",
+    "name": { "str": "breacher grip" },
+    "location": "grip",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "arrowrest",
+    "copy-from": "arrowrest",
+    "type": "GUNMOD",
+    "name": { "str": "arrow rest" },
+    "location": "accessories",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bow_stabilizer",
+    "copy-from": "bow_stabilizer",
+    "type": "GUNMOD",
+    "name": { "str": "bow stabilizer" },
+    "location": "stabilizer",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bow_stabilizer_set",
+    "copy-from": "bow_stabilizer_set",
+    "type": "GUNMOD",
+    "name": { "str": "bow stabilizer system" },
+    "location": "stabilizer",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bow_silencer",
+    "copy-from": "bow_silencer",
+    "type": "GUNMOD",
+    "name": { "str": "bow dampening kit" },
+    "location": "dampening",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "belt_clip",
+    "copy-from": "belt_clip",
+    "type": "GUNMOD",
+    "name": { "str": "belt clip" },
+    "location": "accessories",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "barrel_small",
+    "copy-from": "barrel_small",
+    "type": "GUNMOD",
+    "name": { "str": "shortened barrel" },
+    "location": "barrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "upstest",
+    "copy-from": "upstest",
+    "type": "GUNMOD",
+    "name": { "str": "upstest" },
+    "location": "barrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bio_powershot",
+    "copy-from": "bio_powershot",
+    "type": "GUNMOD",
+    "name": { "str": "Power shot" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "brass_catcher",
+    "copy-from": "brass_catcher",
+    "type": "GUNMOD",
+    "name": { "str": "brass catcher" },
+    "location": "brass catcher",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "retool_ar15_300blk",
+    "copy-from": "retool_ar15_300blk",
+    "type": "GUNMOD",
+    "name": { "str": ".300 AAC Blackout AR-15 conversion kit" },
+    "location": "bore",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "beam_scatterer",
+    "copy-from": "beam_scatterer",
+    "type": "GUNMOD",
+    "name": { "str": "beam scatterer" },
+    "location": "lens",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "focusing_lens",
+    "copy-from": "focusing_lens",
+    "type": "GUNMOD",
+    "name": { "str": "focusing lens", "str_pl": "focusing lenses" },
+    "location": "lens",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "electrolaser_conversion",
+    "copy-from": "electrolaser_conversion",
+    "type": "GUNMOD",
+    "name": { "str": "electrolaser conversion" },
+    "location": "lens",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "effective_emitter",
+    "copy-from": "effective_emitter",
+    "type": "GUNMOD",
+    "name": { "str": "effective emitter" },
+    "location": "emitter",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "high_density_capacitor",
+    "copy-from": "high_density_capacitor",
+    "type": "GUNMOD",
+    "name": { "str": "high density capacitor" },
+    "location": "emitter",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "arredondo_chute",
+    "copy-from": "arredondo_chute",
+    "type": "GUNMOD",
+    "name": { "str": "speedloader chute" },
+    "location": "loading port",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "match_trigger",
+    "copy-from": "match_trigger",
+    "type": "GUNMOD",
+    "name": { "str": "match trigger" },
+    "location": "mechanism",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "dias",
+    "copy-from": "dias",
+    "type": "GUNMOD",
+    "name": { "str": "drop-in auto sear" },
+    "location": "mechanism",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "llink",
+    "copy-from": "llink",
+    "type": "GUNMOD",
+    "name": { "str": "lightning link" },
+    "location": "mechanism",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "waterproof_gunmod",
+    "copy-from": "waterproof_gunmod",
+    "type": "GUNMOD",
+    "name": { "str": "firearm waterproofing" },
+    "location": "mechanism",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "grip_mount",
+    "copy-from": "grip_mount",
+    "type": "GUNMOD",
+    "name": { "str": "replaceable furniture kit" },
+    "location": "grip mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rail_mount",
+    "copy-from": "rail_mount",
+    "type": "GUNMOD",
+    "name": { "str": "side mount" },
+    "location": "rail mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "sights_mount",
+    "copy-from": "sights_mount",
+    "type": "GUNMOD",
+    "name": { "str": "sights mount" },
+    "location": "sights mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "sights_mount_launcher",
+    "copy-from": "sights_mount_launcher",
+    "type": "GUNMOD",
+    "name": { "str": "launcher sights mount" },
+    "location": "sights mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "sights_mount_pistol",
+    "copy-from": "sights_mount_pistol",
+    "type": "GUNMOD",
+    "name": { "str": "pistol sights mount" },
+    "location": "sights mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "stock_mount",
+    "copy-from": "stock_mount",
+    "type": "GUNMOD",
+    "name": { "str": "replaceable stock kit" },
+    "location": "stock mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "underbarrel_mount",
+    "copy-from": "underbarrel_mount",
+    "type": "GUNMOD",
+    "name": { "str": "bottom mount" },
+    "location": "underbarrel mount",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "barrel_ported",
+    "copy-from": "barrel_ported",
+    "type": "GUNMOD",
+    "name": { "str": "ported barrel" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "muzzle_brake",
+    "copy-from": "muzzle_brake",
+    "type": "GUNMOD",
+    "name": { "str": "muzzle brake" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "muzzle_brake_mod",
+    "copy-from": "muzzle_brake_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified muzzle brake" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "crafted_suppressor",
+    "copy-from": "crafted_suppressor",
+    "type": "GUNMOD",
+    "name": { "str": "homemade suppressor" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "filter_suppressor",
+    "copy-from": "filter_suppressor",
+    "type": "GUNMOD",
+    "name": { "str": "'solvent trap' suppressor" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bottle_suppressor",
+    "copy-from": "bottle_suppressor",
+    "type": "GUNMOD",
+    "name": { "str": "soda bottle silencer" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "shot_suppressor",
+    "copy-from": "shot_suppressor",
+    "type": "GUNMOD",
+    "name": { "str": "shotgun suppressor" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "suppressor",
+    "copy-from": "suppressor",
+    "type": "GUNMOD",
+    "name": { "str": "suppressor" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "suppressor_compact",
+    "copy-from": "suppressor_compact",
+    "type": "GUNMOD",
+    "name": { "str": "compact suppressor" },
+    "location": "muzzle",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "shoulder_strap",
+    "copy-from": "shoulder_strap",
+    "type": "GUNMOD",
+    "name": { "str": "shoulder strap" },
+    "location": "sling",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "adjustable_stock",
+    "copy-from": "adjustable_stock",
+    "type": "GUNMOD",
+    "name": { "str": "adjustable stock" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "folding_stock",
+    "copy-from": "folding_stock",
+    "type": "GUNMOD",
+    "name": { "str": "folding stock" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "wire_stock",
+    "copy-from": "wire_stock",
+    "type": "GUNMOD",
+    "name": { "str": "folding wire stock" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "pistol_stock",
+    "copy-from": "pistol_stock",
+    "type": "GUNMOD",
+    "name": { "str": "pistol stock" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "recoil_stock",
+    "copy-from": "recoil_stock",
+    "type": "GUNMOD",
+    "name": { "str": "recoil stock" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "cheek_pad",
+    "copy-from": "cheek_pad",
+    "type": "GUNMOD",
+    "name": { "str": "cheek pad" },
+    "location": "stock",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bipod",
+    "copy-from": "bipod",
+    "type": "GUNMOD",
+    "name": { "str": "bipod" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "bipod_mod",
+    "copy-from": "bipod_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified bipod" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "combination_gun_shotgun",
+    "copy-from": "combination_gun_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "combination gun shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "combination_gun_shotgun_pipe",
+    "copy-from": "combination_gun_shotgun_pipe",
+    "type": "GUNMOD",
+    "name": { "str": "pipe combination gun shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "grip",
+    "copy-from": "grip",
+    "type": "GUNMOD",
+    "name": { "str": "forward grip" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "grip_mod",
+    "copy-from": "grip_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified forward grip" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "inter_bayonet",
+    "copy-from": "inter_bayonet",
+    "type": "GUNMOD",
+    "name": { "str": "integrated bayonet" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "ksg_aux_shotgun",
+    "copy-from": "ksg_aux_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "KSG second magazine" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "ts12_aux_shotgun",
+    "copy-from": "ts12_aux_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "TS12 second magazine" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "ts12_aux_shotgun2",
+    "copy-from": "ts12_aux_shotgun2",
+    "type": "GUNMOD",
+    "name": { "str": "TS12 third magazine" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "laser_sight",
+    "copy-from": "laser_sight",
+    "type": "GUNMOD",
+    "name": { "str": "underbarrel laser sight" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "lemat_revolver_shotgun",
+    "copy-from": "lemat_revolver_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "LeMat revolver shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "m203",
+    "copy-from": "m203",
+    "type": "GUNMOD",
+    "name": { "str": "M203" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "m203_mod",
+    "copy-from": "m203_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified M203" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "m320_mod",
+    "copy-from": "m320_mod",
+    "type": "GUNMOD",
+    "name": { "str": "M320 GLM" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "m320_mod_mod",
+    "copy-from": "m320_mod_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified M320 GLM" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "M6_shotgun",
+    "copy-from": "M6_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "M6 Survival Gun shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "makeshift_bayonet",
+    "copy-from": "makeshift_bayonet",
+    "type": "GUNMOD",
+    "name": { "str": "makeshift bayonet" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "masterkey",
+    "copy-from": "masterkey",
+    "type": "GUNMOD",
+    "name": { "str": "masterkey shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "masterkey_mod",
+    "copy-from": "masterkey_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified masterkey shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "pipe_launcher40mm",
+    "copy-from": "pipe_launcher40mm",
+    "type": "GUNMOD",
+    "name": { "str": "40mm pipe launcher" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "pistol_bayonet",
+    "copy-from": "pistol_bayonet",
+    "type": "GUNMOD",
+    "name": { "str": "pistol bayonet" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rm121aux",
+    "copy-from": "rm121aux",
+    "type": "GUNMOD",
+    "name": { "str": "RM121 aux shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "rm121aux_mod",
+    "copy-from": "rm121aux_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified RM121 aux shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "u_shotgun",
+    "copy-from": "u_shotgun",
+    "type": "GUNMOD",
+    "name": { "str": "underslung shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  },
+  {
+    "id": "u_shotgun_mod",
+    "copy-from": "u_shotgun_mod",
+    "type": "GUNMOD",
+    "name": { "str": "modified underslung shotgun" },
+    "location": "underbarrel",
+    "integral_volume": "0 ml"
+  }
+]
